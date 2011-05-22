@@ -32,3 +32,7 @@
 "ATmega8_portD.sym","DIP28300____.fp","ATmega8","Low-power AVR 8-bit Microcontroller",,,,,
 "ATmega8_pwr.sym",,,,,,,,
 "ATmega8_ref.sym","DIP28300____.fp","ATmega8","Low-power AVR 8-bit Microcontroller",,,,,
+"ATmega328-AU.sym","QFP32.fp","ATmega328","Low-power AVR 8-bit Microcontroller",,,,,
+"ATmega328-AU_np.sym","QFP32.fp","ATmega328","Low-power AVR 8-bit Microcontroller",,,,,
+"ATmega328-AU_pwr.sym",,,,,,,,
+"ATmega328-AU_ref.sym","QFP32.fp","ATmega328","Low-power AVR 8-bit Microcontroller",,,,,
