@@ -40,3 +40,7 @@
 "LM358_np.sym","DIP08300____.fp","LM358","Low Power Dual Operational Amplifier ",,,,,
 "LM358_pp.sym","DIP08300____.fp","LM358","Low Power Dual Operational Amplifier ",,,,,
 "LM358_pwr.sym",,,,,,,,
+"CA3140.sym",,"CA3140","Operational amplifier",,,,,
+"CA3140_np.sym",,"CA3140","Operational amplifier",,,,,
+"CA3140_pp.sym",,"CA3140","Operational amplifier",,,,,
+"CA3140_pwr.sym",,,,,,,,
